@@ -19,4 +19,4 @@ This is a *simulator* application project that simulates the behaviors of variou
 
 
 *Project Report:*
-There is a "Project Report.pdf" file which compares well-known scheduling algorithms such as First-come first serve (FCFS), Shotest job first (SJF) etc.
+There is a "Project Report.pdf" file which compares well-known scheduling algorithms such as First-come first serve (FCFS), Shortest job first (SJF) etc.
