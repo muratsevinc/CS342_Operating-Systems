@@ -1,4 +1,4 @@
-Multi-Threaded Scheduling Simulator
+**Multi-Threaded Scheduling Simulator**
 
 *Project Summary:*
 This is a *simulator* application project that simulates the behaviors of various scheduling algorithms with threads.

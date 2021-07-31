@@ -1,4 +1,4 @@
-My own intercepting shell program that imitates normal shell in linux.
+**My own intercepting shell program that imitates normal shell in linux.**
 
 *Project Summary:*
 A new shell program called isp implemented in this project. Basic linux commands can be run by isp such as: <br/>
